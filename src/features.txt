@@ -1,0 +1,13 @@
+Folder Structure
+Route Configuration
+Creating API's
+Different API Methods
+Middlewares
+Route Parameters
+Query Parameters
+Testing API's Using Postman
+Securing API's Using jwt.
+Documenting API's using Swagger.
+CORS
+Logging
+Error Handling

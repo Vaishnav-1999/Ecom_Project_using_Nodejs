@@ -1,0 +1,5 @@
+
+ Mon Sep 09 2024 17:16:50 GMT+0530 (India Standard Time) - {"email":"customer@ecom.com","password":"password2"} - /api/users/signin
+ Mon Sep 09 2024 17:17:58 GMT+0530 (India Standard Time) - {"name":"Product 4","desc":"Description of Product 4","category":"https://i.pinimg.com/originals/75/07/63/7507634007cb3ec2db76a21be8fc4871.jpg","imageUrl":19.999,"price":"Category4"} - /api/products
+ Mon Sep 09 2024 17:18:20 GMT+0530 (India Standard Time) - {} - /api/products
+ Mon Sep 09 2024 17:54:01 GMT+0530 (India Standard Time) - {} - /api/products
